@@ -1,4 +1,4 @@
-![image](https://github.com/luismary27/PI_Individual2/assets/142852873/eb6b31b7-74a5-45b8-88dc-383583458200)# PROYECTO INDIVIDUAL Nº2 Data Analitycs    
+# PROYECTO INDIVIDUAL Nº2 Data Analitycs    
 ## Siniestros Viales en Buenos Aires  
 ![Texto alternativo](https://www.inforegion.com.ar/wp-content/uploads/2022/01/accidente-ezeiza.jpg)
 
@@ -28,7 +28,7 @@ Numpy
 Seaborn  
 
 ## Dashboard  
-Siniestro_viales  
+Siniestro_viales.pbix
 
 
 
