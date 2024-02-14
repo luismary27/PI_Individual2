@@ -21,4 +21,9 @@ Investigamos las áreas geográficas, roles desempeñados, rangos de edad y tipo
 
 Este análisis exhaustivo nos permite obtener una visión holística de los datos, lo que a su vez nos capacita para tomar decisiones fundamentadas y efectivas orientadas a la prevención y mitigación de futuros incidentes.  
 
+## Herramientas utilizadas
+Pandas
+Matplotlib  
+Numpy
+Seaborn
 
