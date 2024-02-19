@@ -21,6 +21,30 @@ Investigamos las áreas geográficas, roles desempeñados, rangos de edad y tipo
 
 Este análisis exhaustivo nos permite obtener una visión holística de los datos, lo que a su vez nos capacita para tomar decisiones fundamentadas y efectivas orientadas a la prevención y mitigación de futuros incidentes.  
 
+Aca mostramos algunas graficas del EDA: 
+  
+#### Siniestros Fatales por Edad.  
+La edad con mayor incidencia de siniestros fatales se da en la edad entre 20 y 40 años.  
+![imagen eda1](/Imagenes/edad_siniestro.png)  
+  
+#### Siniestros Fatales por Comuna.  
+Las comunas con mayor incidencias de siniestros son la comuna 1 con 93 victimas, 4 con 79 victimas y la 9 con 75 victimas.    
+![imagen eda2](/Imagenes/comuna.png)    
+  
+#### Siniestros fatales por tipo de calle.   
+El tipo de calle con mas incidencia en siniestros viales son en avenidas con un total de 442 victimas  
+![imagen eda3](/Imagenes/tipocalle.png)   
+  
+#### Siniestros fatales por Sexo.  
+En los  siniestros del año 2016-2021 la mayoria de victimas son del sexo Masculino con un 76.1%.  
+![imagen eda4](/Imagenes/sexo.png)   
+
+#### Siniestros Fatales por Año.
+El año 2018 se destaca como el de mayor cantidad de siniestros dentro del periodo analizado.  
+2018-2020: Se observa una disminución significativa en el número de siniestros. La pandemia podría estar relacionada con el aumento de 2021, pero no es la única causa posible.  
+El año 2021 muestra un repunte, sin superar el pico del 2018.   
+![imagen eda4](/Imagenes/siniestrosaño.png)   
+
 # Herramientas utilizadas
 Pandas  
 Matplotlib    
