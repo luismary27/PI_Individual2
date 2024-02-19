@@ -29,7 +29,7 @@ Seaborn
 Plotly.graph_objects 
 
 ## Dashboard  
-![imagen dashboard](Imagenes/imagen 0.PNG)
+![imagen dashboard](/Imagenes/imagen%200.PNG)
 
 
 
