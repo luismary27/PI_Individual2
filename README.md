@@ -1,6 +1,6 @@
 # PROYECTO INDIVIDUAL Nº2 Data Analitycs    
 ## Siniestros Viales en Buenos Aires  
-![Texto alternativo](https://www.inforegion.com.ar/wp-content/uploads/2022/01/accidente-ezeiza.jpg)
+![imagen principal](https://www.inforegion.com.ar/wp-content/uploads/2022/01/accidente-ezeiza.jpg)
 
 Los accidentes de tráfico representan una problemática seria que impacta principalmente a conductores, motociclistas y peatones, poniendo en riesgo tanto la seguridad como la movilidad en las vías.   
 El propósito fundamental de este proyecto es examinar y comprender detalladamente la información concerniente a los incidentes de tráfico, con el fin primordial de elevar los estándares de seguridad y eficiencia en el flujo vehicular de Buenos Aires, evitando así posibles percances en el futuro. Para llevar a cabo esta tarea, contamos con la colaboración de la Oficina Municipal de Seguridad Vial (OMSV), una institución de investigación afiliada a la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires, que nos ha proporcionado un conjunto de datos exhaustivo sobre los accidentes fatales ocurridos en la metrópolis entre los años 2016 y 2021.  
@@ -26,9 +26,11 @@ Pandas
 Matplotlib    
 Numpy  
 Seaborn  
+Plotly.graph_objects 
 
 ## Dashboard  
-Siniestros_viales.pbix
+![imagen dashboard](Imagenes/imagen 0.PNG)
+
 
 
 
