@@ -58,7 +58,7 @@ Hemos dado el toque final con un impresionante dashboard interactivo en PowerBI.
 
 ### Graficas Generales  
 En nuestro análisis, hemos incorporado filtros por año y comuna para una exploración detallada de los siniestros. Esta configuración nos permite examinar los datos de manera precisa, segmentándolos por año y mes. Además, hemos agregado un panel que muestra de forma rápida la cantidad de víctimas y la cantidad de siniestros por vehículos, tanto del acusado como de la víctima.  
-![imagen dashboard1](/Imagenes/imagen1.PNG)  
+![imagen dashboard1](/Imagenes/imagen3gen.PNG)  
 
 ### Graficas Comunas  
 En las siguientes gráficas, proporcionamos una visualización clara de la cantidad de siniestros ocurridos en cada comuna. Además, hemos segmentado estos datos por año, lo que te permite filtrarlos según tus necesidades específicas. Esta segmentación por año te permite aprovechar el análisis en cada faceta, brindándote una comprensión más detallada de la evolución de los siniestros a lo largo del tiempo y su distribución geográfica.  
