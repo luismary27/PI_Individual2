@@ -74,7 +74,7 @@ En esta grafica presentamos la cantidad de accidentes clasificados por tipo de v
 Realizamos las proyecciones nacionales de población para la Ciudad Autónoma de Buenos Aires (CABA) del año 2021. Estas proyecciones se basan en la segmentación anual que se realiza a partir del primero de julio. Calculamos la tasa de homicidios por semestre durante el año 2021, considerando el número total de homicidios en cada semestre en relación con la población total estimada para ese período.  
 ![imagen dashboard4](/Imagenes/imagen%204.PNG)  
 
-### KPI Siniestrso Moto  
+### KPI Siniestros Moto  
 Para este segundo KPI, nos enfocamos en los siniestros viales que implicaban motocicletas durante el año 2021. Inicialmente, calculamos el total de víctimas relacionadas con accidentes de motocicleta en dicho año.
 Luego, realizamos un análisis comparativo con el año anterior para determinar la reducción porcentual esperada de siniestros mortales. Basándonos en este análisis, establecimos una meta de reducción del 7% en comparación con la cantidad de siniestros mortales del año previo.  
 ![imagen dashboard5](/Imagenes/imagen%205.PNG)  
@@ -82,10 +82,14 @@ Luego, realizamos un análisis comparativo con el año anterior para determinar 
 ### KPI Siniestros Comuna 1
 En este tercer indicador clave de rendimiento (KPI), nos proponemos reducir en un 10% la cantidad de accidentes en la Comuna 1. Para ilustrar nuestro progreso, presentamos una gráfica que compara la cantidad de accidentes ocurridos en los años 2021 y 2020. Además, en la misma visualización, destacamos la reducción porcentual lograda entre ambos años.  
 Esta representación gráfica nos proporciona una visión clara y concisa del impacto de nuestras acciones para mejorar la seguridad vial en la Comuna 1. Nos ayuda a monitorear nuestro avance hacia el objetivo de reducir la cantidad de accidentes y a identificar cualquier área que requiera atención adicional para alcanzar nuestra meta del 10% de reducción.  
-![imagen dashboard6](/Imagenes/imagen%206.PNG)   
+![imagen dashboard6](/Imagenes/kpicomuna.PNG)   
 
 ## Conclusiones
-![imagen dashboard7](/Imagenes/imagen%207.PNG)   
+![imagen dashboard7](/Imagenes/imagen%207.PNG)  
+Los siniestros fatales son un problema grave que afecta a todos. Según la Organización Mundial de la Salud (OMS), cada año mueren en las carreteras alrededor de 1,35 millones de personas y otras 50 millones resultan heridas. Los siniestros viales son la principal causa de muerte entre los niños y jóvenes de 5 a 29 años, y la segunda causa de muerte entre los adultos de 30 a 44 años.   
+
+Para reducir el número de siniestros fatales, es necesario tomar medidas en todos los niveles de la sociedad. Los gobiernos deben invertir en infraestructura vial segura, mejorar la aplicación de las leyes de tránsito y promover campañas de educación vial. Las empresas deben implementar políticas de seguridad vial para sus empleados. Y los conductores deben ser responsables y respetar las normas de tránsito.  
+
 
 # Contacto
 **Linkendin:** Luismary Gaince  
