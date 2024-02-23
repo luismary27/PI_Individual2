@@ -39,12 +39,6 @@ El tipo de calle con mas incidencia en siniestros viales son en avenidas con un 
 En los  siniestros del año 2016-2021 la mayoria de victimas son del sexo Masculino con un 76.1%.  
 ![imagen eda4](/Imagenes/sexo.png)   
 
-#### Siniestros Fatales por Año.
-El año 2018 se destaca como el de mayor cantidad de siniestros dentro del periodo analizado.  
-2018-2020: Se observa una disminución significativa en el número de siniestros. La pandemia podría estar relacionada con el aumento de 2021, pero no es la única causa posible.  
-El año 2021 muestra un repunte, sin superar el pico del 2018.   
-![imagen eda4](/Imagenes/siniestrosaño.png)   
-
 # Herramientas utilizadas
 Pandas  
 Matplotlib    
