@@ -86,7 +86,7 @@ Para reducir el número de siniestros fatales, es necesario tomar medidas en tod
 
 
 # Contacto
-**Linkendin:** Luismary Gaince  
+**Linkendin:** Luis Mary Gaince  
 **GitHub:** Luismary27
 
 
