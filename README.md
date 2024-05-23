@@ -1,4 +1,4 @@
-# PROYECTO INDIVIDUAL Nº2 Data Analitycs    
+# PROYECTO INDIVIDUAL Nº2 Data Analitycs.    
 ## Siniestros Viales en Buenos Aires  
 ![imagen principal](https://www.inforegion.com.ar/wp-content/uploads/2022/01/accidente-ezeiza.jpg)
 
